@@ -1,0 +1,8 @@
+" ndir m3akom mzian n3tikum lmo9adima"
+import discord
+import random
+import json
+from discord.ext import commands
+import youtube_dl
+import os
+YALAH 9WDOO DBRU KRKUM M3A PYTHON DB
